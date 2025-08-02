@@ -31,3 +31,14 @@ This chart shows the historical closing prices of a stock from 2010 to 2020, hig
 
 
 This plot shows that both training and validation loss generally decrease over epochs, indicating improved model performance, though a slight fluctuation in validation loss suggests minor overfitting may have started.
+
+
+--------------------------------------
+
+
+<img width="827" height="320" alt="image" src="https://github.com/user-attachments/assets/27038b21-bc89-4a6c-9ea4-1c5d8efaed93" />
+
+
+
+
+This chart shows that the model's predictions on both the training data (blue) and test data (red) closely follow the actual stock values. Especially during the test period, the model successfully captures the overall trend, indicating that the LSTM performed well on this time series data.
