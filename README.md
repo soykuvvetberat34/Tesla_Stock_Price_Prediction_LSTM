@@ -24,7 +24,8 @@ This chart shows the historical closing prices of a stock from 2010 to 2020, hig
 
 
 
-<img width="799" height="478" alt="Başlıksısfgz" src="https://github.com/user-attachments/assets/7bff6302-559a-454a-be6e-c95162cc6874" />
+<img width="787" height="490" alt="image" src="https://github.com/user-attachments/assets/0adecd34-009d-497b-b353-000c6be057d6" />
+
 
 
 
